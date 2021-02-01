@@ -1,6 +1,6 @@
 package bai_tap;
 
-import Comparable_Comparator.Student;
+//import Comparable_Comparator.Student;
 
 import java.util.Collections;
 import java.util.Scanner;

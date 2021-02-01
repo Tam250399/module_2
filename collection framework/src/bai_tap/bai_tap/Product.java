@@ -51,7 +51,7 @@ public class Product  implements Comparable <Product> {
 
 
     @Override
-    public int compareTo(Product o) {
+    public int compareTo(Product o){
        return Double.compare(this.price, o.getPrice());
     }
 }
